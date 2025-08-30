@@ -1,4 +1,4 @@
-# My GitHub Profile
+
 # Hi there 👋, I'm Digvijay  
 
 ## 🚀 About Me
