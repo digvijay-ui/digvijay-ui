@@ -1,3 +1,4 @@
+[![An image of @digvijayui's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/digvijayui)](https://holopin.io/@digvijayui)
 
 # Hi there 👋, I'm Digvijay  
 
