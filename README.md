@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Node.js, Express & MongoDB**
-- 🎓 I’m pursuing **Information Technology (7th Sem)**
+- 🎓 I’m pursuing **Information Technology (8th Sem)**
 - 🌱 I’m exploring Backend Development & MERN Stack
 - ⚡ Fun fact: I love building full-stack apps!
 
