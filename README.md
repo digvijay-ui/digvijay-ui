@@ -75,4 +75,4 @@ Currently focused on strengthening my **backend development**, improving my **pr
 
 ## ✨ Quote I Like
 
-> “Keep building, keep learning, and let your projects speak for your skills.”
+ “Keep building, keep learning, and let your projects speak for your skills.”
