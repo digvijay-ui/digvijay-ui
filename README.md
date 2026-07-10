@@ -1,69 +1,68 @@
-# 👋 Hi, I'm Digvijay Rajput
+# Hi, I'm Rajput Digvijaysinh
 
-### Full-Stack JavaScript Developer · Bengaluru, India
+### Full-Stack JavaScript Developer | Bengaluru, India
 
-I build web applications end-to-end — from clean, responsive frontends to scalable REST APIs and database design. I care about writing readable code, structuring projects well, and shipping things that actually work.
+I build complete web applications, from responsive frontend interfaces to secure RESTful APIs and database systems.
 
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+I focus on writing clean, readable code, maintaining a well-organized project structure, and developing applications that solve real-world problems.
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### ♻️ [Digital Dump](https://github.com/digvijay-ui/Digital-Dump)
-> Full-stack e-waste management platform
+### Frontend
 
-A complete platform for scheduling e-waste pickups, tracking collection agents, and managing admin operations. Built with role-based access for users, agents, and admins. Includes real-time pickup routing via Mapbox, email notifications, gamification rewards, and a community module.
+* JavaScript
+* TypeScript
+* React.js
+* Vue.js
+* Tailwind CSS
 
-`React` `TypeScript` `Node.js` `Express` `MongoDB` `JWT` `Mapbox` `Resend`
+### Backend
+
+* Node.js
+* Express.js
+* RESTful APIs
+* JSON Web Token (JWT)
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* Visual Studio Code
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay-ui&layout=compact&theme=tokyonight&hide_border=true)
+### [Digital Dump](https://github.com/digvijay-ui/Digital-Dump)
+
+**Full-Stack E-Waste Management Platform**
+
+Digital Dump is an e-waste management platform that allows users to schedule e-waste pickups and track collection activities.
+
+It includes:
+
+* Role-based access for users, collection agents, and administrators
+* E-waste pickup scheduling
+* Collection agent tracking
+* Admin management features
+* Real-time route integration using Mapbox
+* Email notifications
+* Reward and gamification features
+* Community module
 
 ---
 
-## 🌱 Currently
+## Contact
 
-- Building projects with **Node.js + PostgreSQL**
-- Learning **system design** fundamentals
-- Open to **SDE-1 / Junior Developer** opportunities
+* **LinkedIn:** [Rajput Digvijaysinh](https://www.linkedin.com/in/rajput-digvijaysinh-7515b4254/)
+* **GitHub:** [digvijay-ui](https://github.com/digvijay-ui)
+* **Email:** [rajputdigvijaysinh45@gmail.com](mailto:rajputdigvijaysinh45@gmail.com)
 
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajput-digvijaysinh-7515b4254/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/digvijay-ui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajputdigvijaysinh45@gmail.com)
