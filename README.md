@@ -9,8 +9,11 @@ I focus on writing clean, readable code, maintaining a well-organized project st
 ## Tech Stack
 
 **Frontend:** JavaScript, TypeScript, React.js, Vue.js, Tailwind CSS
+
 **Backend:** Node.js, Express.js, RESTful APIs, JSON Web Token (JWT)
+
 **Databases:** PostgreSQL, MongoDB
+
 **Tools:** Git, GitHub, Postman, Visual Studio Code
 
 ## Contact
